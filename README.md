@@ -1,6 +1,6 @@
 <p align="center">
 	<h2 align="center">Welcome</h2>
-	<p align="center"><a href="https://discord.io/shellcode"><img src="https://img.shields.io/discord/602194462407524402?style=for-the-badge" title="https://discord.io/shellcode" alt="hotline1337's Discord Server"></a> <a href="https://github.com/hotline1337?tab=followers"><img src="https://img.shields.io/github/followers/hotline1337?style=for-the-badge" alt="mtfy's GitHub Followers" title="hotline1337's GitHub Followers"></a> <a href="#"><img src="https://img.shields.io/github/stars/hotline1337?style=for-the-badge" alt="hotline1337's GitHub Stars" title="hotline1337's GitHub Stars"></a>
+	<p align="center"><a href="https://github.com/hotline1337?tab=followers"><img src="https://img.shields.io/github/followers/hotline1337?style=for-the-badge" alt="mtfy's GitHub Followers" title="hotline1337's GitHub Followers"></a> <a href="#"><img src="https://img.shields.io/github/stars/hotline1337?style=for-the-badge" alt="hotline1337's GitHub Stars" title="hotline1337's GitHub Stars"></a>
 	</p>
 </p>
 
@@ -14,5 +14,6 @@
 	<h3>Socials</h3>
 	<ul>
 		<li>Email <a href="mailto:denuvo@tuta.io">denuvo@tuta.io</a></li>
+		<li>Discord <a href="https://dsc.gg/shellcode">metamorphosis™</a></li>
 	</ul>
 </p>
